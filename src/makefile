@@ -1,3 +1,3 @@
 make:
-	javac driver.java -d ..\bin
-	java -cp ..\classes driver
+	javac Main.java -d ..\classes   
+	java -cp ..\classes Main

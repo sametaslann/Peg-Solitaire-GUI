@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"BFSandDFS"},{"p":"<Unnamed>","l":"DijkstrasAlgorithm"},{"p":"<Unnamed>","l":"driver"},{"p":"<Unnamed>","l":"DynamicGraph"},{"p":"<Unnamed>","l":"Edge"},{"p":"<Unnamed>","l":"Graph"},{"p":"<Unnamed>","l":"MyGraph"},{"p":"<Unnamed>","l":"Vertex"}];updateSearchResults();
